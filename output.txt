@@ -1,0 +1,23 @@
+value of *ptr is 5
+value of ptr is 0x61fee8
+value of &num is  0x61fee8
+size of *ptr is 4
+size of ptr is 4
+value of *p is s
+0x61febc
+0x61febc
+0x61fec0
+0x61fec0
+1
+11
+2
+2
+2
+abcde
+before update 
+value of poi is 0x61feb0 *poi is 6
+after update
+poi is 0x61feb0 *poi is 6
+
+Size : 4
+Sum is 17
